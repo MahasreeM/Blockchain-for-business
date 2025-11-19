@@ -1,4 +1,5 @@
-
+## REG.NO : 212224110035
+## NAME : MAHA SHREE.M
 EX.NO-1
 CREATING A PRIVATE DATE: BLOCKCHAIN
 AIM
@@ -116,7 +117,8 @@ OUTPUT
 # Deploying Transaction in Remix
 7
 # Contract Creation Output in Command Prompt
-<img width="1180" height="492" alt="image" src="https://github.com/user-attachments/assets/fc0eaa31-1340-4c3e-8410-3ca49a1f4dcd" />
+<img width="675" height="657" alt="blockchain exp1" src="https://github.com/user-attachments/assets/6822b7bc-df59-4b6d-9133-23f5c257eb51" />
+
 
 RESULT: Thus, the Private Blockchain is created, nodes are added with accounts, and Ether is transferred
 into it by creating and deploying Smart contract successfully
