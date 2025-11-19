@@ -1,7 +1,7 @@
 ## REG.NO : 212224110035
 ## NAME : MAHA SHREE.M
-EX.NO-1
-CREATING A PRIVATE DATE: BLOCKCHAIN
+## EX.NO-1 : CREATING A PRIVATE DATE: BLOCKCHAIN
+
 AIM
 To create a Private Blockchain and to add nodes, create accounts, transfer Ether into it by creating
 and deploying Smart contract.
